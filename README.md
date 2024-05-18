@@ -1,4 +1,3 @@
  estructura
 # estructura
 # talleres
-# ta
